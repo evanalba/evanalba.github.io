@@ -1,0 +1,24 @@
+html {
+    background-color: black;
+    font-family: monospace;
+}
+
+#logo {
+    color: white;
+    text-align: center;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+}
+
+nav a {
+    color: lime;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+.home {
+    margin-right: 5px;
+}
